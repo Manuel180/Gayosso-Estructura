@@ -1,0 +1,11 @@
+{
+    "name": "gayosso/gayosso",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Manuel",
+            "email": "sufferdarkness44@gmmail.com"
+        }
+    ],
+    "require": {}
+}
